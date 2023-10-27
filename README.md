@@ -3,7 +3,7 @@
 ## 1 - Descrição dos Exercícios
 
 1. [Gas Station](https://leetcode.com/problems/gas-station/)
-2. [Link para o desafio]()
+2. [Split Array](https://leetcode.com/problems/split-array-largest-sum/)
 3. [Link para o desafio]()
 4. [Link para o desafio]()
 
@@ -31,6 +31,8 @@ python3 <nome_do_arquivo.py> < <nome_do_arquivo.txt>
 ```
 
 ## 3 - Observações
+
+Caso desejar testar o problema do split array, altere um dos exemplos no final do código e rode.
 
 ## 4 - Apresentação
 [Apresentação Greed]()
