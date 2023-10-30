@@ -35,7 +35,7 @@ python3 <nome_do_arquivo.py> < <nome_do_arquivo.txt>
 Caso desejar testar o problema do split array, altere um dos exemplos no final do código e rode.
 
 ## 4 - Apresentação
-[Apresentação Greed]()
+[Apresentação Greed](https://youtu.be/t8Cri2DMrX4)
 
 ## 5 - Integrantes
 
