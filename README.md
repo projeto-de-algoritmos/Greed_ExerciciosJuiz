@@ -4,8 +4,8 @@
 
 1. [Gas Station](https://leetcode.com/problems/gas-station/)
 2. [Split Array](https://leetcode.com/problems/split-array-largest-sum/)
-3. [Link para o desafio]()
-4. [Link para o desafio]()
+3. [Chaser's schedule](https://www.codewars.com/kata/628df6b29070907ecb3c2d83)
+4. [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 
 
 ## 2 - Como executar ?
